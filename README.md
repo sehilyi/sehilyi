@@ -1,6 +1,12 @@
-### Hi there 👋
+> Buy me coffee! ☕️ (https://buymeacoffee.com/sehilyi)
 
 <!--
+### Hi There 👋
+
+- Working on [Gosling projects](https://github.com/gosling-lang) 🐥 
+- Korean 🇰🇷
+- Ph.D. in CS at SNU, [HCIL](http://hcil.snu.ac.kr/people/sehi-l-yi)
+
 **sehilyi/sehilyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
